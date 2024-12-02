@@ -1,3 +1,4 @@
+
 Resources:
   networkingInstanceSecurityGroup:
     Type: AWS::EC2::SecurityGroup # EC2 - SecurityGroup
